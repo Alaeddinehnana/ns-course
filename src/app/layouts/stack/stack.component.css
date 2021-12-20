@@ -1,0 +1,15 @@
+Label {
+    color: red;
+    height: 50;
+    width: 50;
+}
+
+#i1 {
+    background: red;
+}
+#i2 {
+    background: blue;
+}
+#i3 {
+    background: orange;
+}
